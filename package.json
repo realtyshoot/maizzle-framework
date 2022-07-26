@@ -47,7 +47,7 @@
     "is-url-superb": "^5.0.0",
     "juice": "^8.0.0",
     "lodash": "^4.17.20",
-    "maizzle-cli": "github:realtyshoot/cli.git#ee7e76",
+    "@maizzle/cli": "github:realtyshoot/cli.git#2b7b4bb",
     "ora": "^5.1.0",
     "postcss": "^8.4.4",
     "postcss-import": "^14.0.0",

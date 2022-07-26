@@ -285,6 +285,19 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@maizzle/cli@github:realtyshoot/cli.git#2b7b4bb":
+  version "1.5.1"
+  resolved "https://codeload.github.com/realtyshoot/cli/tar.gz/2b7b4bbf33079ecca164afba3065463830d571f6"
+  dependencies:
+    chalk "^4.1.0"
+    commander "^9.0.0"
+    execa "^5.0.0"
+    fs-extra "^10.0.0"
+    import-cwd "^3.0.0"
+    inquirer "^8.0.0"
+    ora "^5.1.0"
+    update-notifier "^5.0.1"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -4228,19 +4241,6 @@ lru-cache@^6.0.0:
   integrity sha512-Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA==
   dependencies:
     yallist "^4.0.0"
-
-"maizzle-cli@github:realtyshoot/cli.git#ee7e76":
-  version "1.5.1"
-  resolved "https://codeload.github.com/realtyshoot/cli/tar.gz/ee7e764f4fcfc757d381b44a53ef2f17ca505a55"
-  dependencies:
-    chalk "^4.1.0"
-    commander "^9.0.0"
-    execa "^5.0.0"
-    fs-extra "^10.0.0"
-    import-cwd "^3.0.0"
-    inquirer "^8.0.0"
-    ora "^5.1.0"
-    update-notifier "^5.0.1"
 
 make-dir@^3.0.0, make-dir@^3.0.2:
   version "3.1.0"
